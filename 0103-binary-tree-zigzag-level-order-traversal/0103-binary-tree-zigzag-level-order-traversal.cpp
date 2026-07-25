@@ -28,7 +28,7 @@ public:
                  
                 
             }if(count%2!=0)
-                         reverse(currentLevel.begin(),currentLevel.end());
+                         reverse(currentLevel.begin(),currentLevel.end());// instead of reversing you can remove and do other changes for more efficiency,check later
                  count++;
             ans.push_back(currentLevel);
         }return ans;
