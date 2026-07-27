@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* p,TreeNode* q){
+    bool solve(TreeNode* p,TreeNode* q){ //same logic of same tree used here
        if(p==NULL && q==NULL)return true;
         if(p==NULL || q==NULL)return false;
         if(p->val != q->val)return false;
