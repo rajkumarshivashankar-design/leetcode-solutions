@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
 |  |
@@ -148,9 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
