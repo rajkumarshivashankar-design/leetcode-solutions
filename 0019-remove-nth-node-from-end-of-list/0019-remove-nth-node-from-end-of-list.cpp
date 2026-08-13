@@ -23,17 +23,14 @@ public:
         }
         temp=head;int idx=0;
         
-        if(count-n-1==-1){
+        if(count==n){// it checks first node
                 head=head->next;
                 return head;
             }
         while(temp){
-            //on first node
-            
             //stand before delete node
             if(idx==count-n-1){
-                
-                //If last node
+                //If last node (check next first and then next->next to avoid segmentaion)
                 if(temp->next==NULL || temp->next->next==NULL){ temp->next=NULL;
                 return head;
                 }
