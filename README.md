@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2351-first-letter-to-appear-twice](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
