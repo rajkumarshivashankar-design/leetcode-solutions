@@ -88,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -134,9 +136,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
