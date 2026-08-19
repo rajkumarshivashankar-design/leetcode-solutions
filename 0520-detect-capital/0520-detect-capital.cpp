@@ -7,8 +7,8 @@ public:
         }
        
         if(upper==n)return true;
-        if(upper==0)return true;
-        if(upper==1 && isupper(word[0]))return true;
+        else if(upper==0)return true;
+        else if(upper==1 && isupper(word[0]))return true;
  
         
         return false;
