@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0520-detect-capital](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0520-detect-capital) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search Tree
 |  |
