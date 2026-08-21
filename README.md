@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
