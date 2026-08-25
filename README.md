@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0371-sum-of-two-integers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
