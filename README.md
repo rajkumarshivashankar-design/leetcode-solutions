@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0137-single-number-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
