@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
