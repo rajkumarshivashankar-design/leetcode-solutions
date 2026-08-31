@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
+        //greedy problem
         int i=0;int reach=0;
         while(i<nums.size()){
             if(i>reach )return false;
