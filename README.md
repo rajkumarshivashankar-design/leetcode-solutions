@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search Tree
 |  |
