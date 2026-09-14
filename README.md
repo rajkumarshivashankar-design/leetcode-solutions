@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
