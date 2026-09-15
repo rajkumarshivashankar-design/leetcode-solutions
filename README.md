@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
