@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
