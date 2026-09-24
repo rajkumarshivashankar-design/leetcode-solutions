@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0342-power-of-four](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0877-stone-game) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0832-flipping-an-image) |
