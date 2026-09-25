@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0164-maximum-gap) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
