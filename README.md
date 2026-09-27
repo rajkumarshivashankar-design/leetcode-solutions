@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0877-stone-game) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
