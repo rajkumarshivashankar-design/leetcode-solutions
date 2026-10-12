@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
