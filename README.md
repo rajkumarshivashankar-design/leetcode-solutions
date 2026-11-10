@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0986-interval-list-intersections](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1162-as-far-from-land-as-possible](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
