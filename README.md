@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -399,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0155-min-stack) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
