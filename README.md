@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajkumarshivashankar-design/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
